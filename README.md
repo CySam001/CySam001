@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Inalegwu Samuel
 
-<!--
-**CySam001/CySam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m a cybersecurity professional with hands-on experience in:
 
-Here are some ideas to get you started:
+- Malware analysis 🐛
+- Threat detection and evasion ⚔️
+- Penetration testing 🕵️
+- Network security 🔐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+
+🔹 [BlankGrabber Malware Analysis](https://github.com/yourusername/BlankGrabber-Malware-Analysis)  
+🔹 [DVWA XSS Walkthrough](https://github.com/yourusername/DVWA-XSS-Walkthrough)  
+🔹 [Wireshark Network Analysis](https://github.com/yourusername/Wireshark-Traffic-Inspection)
+
+> All projects are conducted in safe, virtual environments and documented for learning and awareness.
+
+📫 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile)
