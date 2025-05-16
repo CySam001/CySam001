@@ -9,10 +9,10 @@
 
 ## 📂 My Projects
 
-🔹 [BlankGrabber Malware Analysis](https://github.com/yourusername/BlankGrabber-Malware-Analysis)  
+🔹 [BlankGrabber Malware Analysis](https://github.com/CySam001/BlankGrabber-Malware-Analysis-)  
 🔹 [DVWA XSS Walkthrough](https://github.com/yourusername/DVWA-XSS-Walkthrough)  
 🔹 [Wireshark Network Analysis](https://github.com/yourusername/Wireshark-Traffic-Inspection)
 
 > All projects are conducted in safe, virtual environments and documented for learning and awareness.
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/inalegwusamuelinalegwu/)
