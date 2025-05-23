@@ -11,7 +11,7 @@
 
 🔹 [BlankGrabber Malware Analysis](https://github.com/CySam001/BlankGrabber-Malware-Analysis-)  
 🔹 [SOC-Lab-TheHive-Wazuh-Cassandra-Elasticsearch-Kali ](https://github.com/CySam001/SOC-Lab-TheHive-Wazuh-Cassandra-Elasticsearch-Kali)  
-🔹 [Wireshark Network Analysis](https://github.com/yourusername/Wireshark-Traffic-Inspection)
+🔹 [pentest-enum-report](https://github.com/CySam001/pentest-enum-report-full)
 
 > All projects are conducted in safe, virtual environments and documented for learning and awareness.
 
